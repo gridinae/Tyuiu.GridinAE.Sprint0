@@ -5,7 +5,11 @@ VisualStudioVersion = 17.11.35222.181
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task0", "Task0", "{061FB400-DA2D-489A-B17D-95418B6EE4C0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint0.Task0.V0", "Tyuiu.GridinAE.Sprint0.Task0.V0\Tyuiu.GridinAE.Sprint0.Task0.V0.csproj", "{0C5DF449-D5CE-40D8-80C4-1E29CCEDF05F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Tyuiu.GridinAE.Sprint0.Task0.V0", "Tyuiu.GridinAE.Sprint0.Task0.V0\Tyuiu.GridinAE.Sprint0.Task0.V0.csproj", "{0C5DF449-D5CE-40D8-80C4-1E29CCEDF05F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Task1", "Task1", "{4AED4124-7192-4421-B03D-683696765DFF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tyuiu.GridinAE.Sprint0.Task1.V0", "Tyuiu.GridinAE.Sprint0.Task1.V0\Tyuiu.GridinAE.Sprint0.Task1.V0.csproj", "{715E56E1-9DAD-4118-A18D-FEFB37BF390D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,12 +21,17 @@ Global
 		{0C5DF449-D5CE-40D8-80C4-1E29CCEDF05F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0C5DF449-D5CE-40D8-80C4-1E29CCEDF05F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0C5DF449-D5CE-40D8-80C4-1E29CCEDF05F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{715E56E1-9DAD-4118-A18D-FEFB37BF390D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{715E56E1-9DAD-4118-A18D-FEFB37BF390D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{715E56E1-9DAD-4118-A18D-FEFB37BF390D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{715E56E1-9DAD-4118-A18D-FEFB37BF390D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 		{0C5DF449-D5CE-40D8-80C4-1E29CCEDF05F} = {061FB400-DA2D-489A-B17D-95418B6EE4C0}
+		{715E56E1-9DAD-4118-A18D-FEFB37BF390D} = {4AED4124-7192-4421-B03D-683696765DFF}
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
 		SolutionGuid = {938DEE90-1926-4874-BACF-525197E03A5F}
