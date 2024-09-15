@@ -11,6 +11,6 @@ public class DataServiceTest
         var name = "Игорь";
         var res = DataService.GetMessage(name);
 
-        Assert.AreEqual("Привет..., Игорь", res);
+        Assert.AreEqual("Привет, Игорь", res);
     }
 }
