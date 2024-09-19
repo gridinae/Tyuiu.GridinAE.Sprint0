@@ -29,7 +29,7 @@ for (int i = 0; i < arrayNums2.Length; i++)
 Console.WriteLine();
 
 Console.WriteLine("***************************************************************************");
-Console.WriteLine("* РЕЗУЛТАТ:                                                               *");
+Console.WriteLine("* РЕЗУЛЬТАТ:                                                              *");
 Console.WriteLine("***************************************************************************");
 if (arrayNums1.Length == arrayNums2.Length)
 {
