@@ -12,6 +12,6 @@ public class DataServiceTest
         int[] nums3 = new int[] { 2, 2, 2, 2, 2 };
 
         int[] res = DataService.AdditionArrays(nums1, nums2);
-        CollectionAssert.AreEqual(nums1, res);
+        CollectionAssert.AreEqual(nums3, res);
     }
 }
