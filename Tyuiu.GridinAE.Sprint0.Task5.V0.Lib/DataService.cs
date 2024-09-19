@@ -10,7 +10,7 @@ public class DataService
     {
         if (b == 0)
         {
-            Console.WriteLine("Переменная b = 0 на ноль делить нельзя");
+            Console.WriteLine("Переменная b = {0} на ноль делить нельзя", b);
             return -1;
         }
         else
